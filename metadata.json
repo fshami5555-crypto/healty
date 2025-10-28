@@ -1,0 +1,5 @@
+{
+  "name": "Calorina",
+  "description": "An AI-powered nutrition assistant that creates personalized diet plans through a conversational interface. Users can view their meal plans and simulate ordering meals for home delivery.",
+  "requestFramePermissions": []
+}
